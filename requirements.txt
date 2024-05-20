@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+torch
+prometheus-client
+pandas
+tqdm
